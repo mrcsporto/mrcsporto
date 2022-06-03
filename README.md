@@ -3,10 +3,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red&link=mailto:mrcsporto@gmail.com)](mailto:mrcsporto@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/mrcsporto)](https://www.linkedin.com/in/marcosportorafael/)
 [![Frontend Mentor Badge](https://img.shields.io/badge/-frontendmentor-lightgrey?style=for-the-badge&logo=frontendmentor&logoColor=161f16&link=https://github.com/mrcsporto)](https://www.frontendmentor.io/profile/mrcsporto)
-[![Github Badge](https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/mrcsporto)](https://github.com/mrcsporto)
 [![Instagram Badge](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/mrcsporto)](https://www.instagram.com/marcosprafael/)
 [![Spotify Badge](https://img.shields.io/badge/-Spotify-3bb34b?style=for-the-badge&logo=Spotify&logoColor=161f16&link=https://github.com/mrcsporto)](https://open.spotify.com/user/mrcsporto)
-
+<!-- [![Github Badge](https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/mrcsporto)](https://github.com/mrcsporto) -->
 <hr>
 
 #### 🧰 Main Tools:
