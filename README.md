@@ -5,7 +5,7 @@
 [![Frontend Mentor Badge](https://img.shields.io/badge/-frontendmentor-lightgrey?style=for-the-badge&logo=frontendmentor&logoColor=161f16&link=https://github.com/mrcsporto)](https://www.frontendmentor.io/profile/mrcsporto)
 [![Instagram Badge](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/mrcsporto)](https://www.instagram.com/marcosprafael/)
 [![Spotify Badge](https://img.shields.io/badge/-Spotify-3bb34b?style=for-the-badge&logo=Spotify&logoColor=161f16&link=https://github.com/mrcsporto)](https://open.spotify.com/user/mrcsporto)
-<!-- [![Github Badge](https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/mrcsporto)](https://github.com/mrcsporto) -->
+
 <hr>
 
 #### 🧰 Main Tools:
@@ -33,7 +33,7 @@
 
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="redux" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="postgresql" height="40">
@@ -47,5 +47,20 @@
 
 <div align="left">
 <img width="500em" src="https://github-readme-stats.vercel.app/api?username=mrcsporto&show_icons=true&layout=compact=true&theme=tokyonight"/>
-<img width="241em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrcsporto&layout=compact=true&theme=tokyonight"/>
+<img width="241em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrcsporto&theme=tokyonight"/>
 </div>
+
+<hr>
+
+#### 🕹 Project:
+
+<div>
+<a href="https://github.com/mrcsporto/festival-page"><img width="300em" src="https://github-readme-stats.vercel.app/api/pin/?username=mrcsporto&repo=festival-page&theme=tokyonight"/></a>
+<a href="https://github.com/mrcsporto/google-login-page"><img width="300em" src="https://github-readme-stats.vercel.app/api/pin/?username=mrcsporto&repo=google-login-page&theme=tokyonight"/></a> 
+<a href="https://github.com/mrcsporto/clipboard-landing-page"><img width="300em" src="https://github-readme-stats.vercel.app/api/pin/?username=mrcsporto&repo=clipboard-landing-page&theme=tokyonight"/></a>
+  
+<a href="https://github.com/mrcsporto/tic-tac-toe"><img width="300em" src="https://github-readme-stats.vercel.app/api/pin/?username=mrcsporto&repo=tic-tac-toe&theme=tokyonight"/></a>
+<a href="https://github.com/mrcsporto/pokedex"><img width="300em" src="https://github-readme-stats.vercel.app/api/pin/?username=mrcsporto&repo=pokedex&theme=tokyonight"/></a> 
+<a href="https://github.com/mrcsporto/etiquetas-fortaleza"><img width="300em" src="https://github-readme-stats.vercel.app/api/pin/?username=mrcsporto&repo=etiquetas-fortaleza&theme=tokyonight"/></a> 
+<a href="https://github.com/mrcsporto/card-grid-template"><img width="300em" src="https://github-readme-stats.vercel.app/api/pin/?username=mrcsporto&repo=card-grid-template&theme=tokyonight"/></a>  
+ </div>
