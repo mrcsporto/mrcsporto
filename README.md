@@ -49,7 +49,7 @@
 
 <hr>
 
-#### 🕹 Project:
+#### 🕹 Projects:
 
 <div>
 <a href="https://github.com/mrcsporto/festival-page"><img width="300em" src="https://github-readme-stats.vercel.app/api/pin/?username=mrcsporto&repo=festival-page&theme=tokyonight"/></a>
