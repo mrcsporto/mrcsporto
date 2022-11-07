@@ -15,6 +15,9 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" alt="rails" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" alt="postgresql" width="40" height="40"/>
 </p>
 
 <hr>
@@ -23,9 +26,9 @@
 
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="rails" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" alt="rails" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="node" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
 </p>
 
 <hr>
@@ -33,9 +36,7 @@
 #### 🔭 Next Steps:
 
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="node" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" alt="postgresql" width="40" height="40"/>
+
 </p>
 <hr>
 
@@ -54,10 +55,8 @@
 <a href="https://github.com/mrcsporto/factory-api-v1"><img width="300em" src="https://github-readme-stats.vercel.app/api/pin/?username=mrcsporto&repo=factory-api-v1&theme=tokyonight"/></a>
 <a href="https://github.com/mrcsporto/X-SUNIT-APP"><img width="300em" src="https://github-readme-stats.vercel.app/api/pin/?username=mrcsporto&repo=X-SUNIT-APP&theme=tokyonight"/></a>
 <a href="https://github.com/mrcsporto/festival-page"><img width="300em" src="https://github-readme-stats.vercel.app/api/pin/?username=mrcsporto&repo=festival-page&theme=tokyonight"/></a>
-<a href="https://github.com/mrcsporto/google-login-page"><img width="300em" src="https://github-readme-stats.vercel.app/api/pin/?username=mrcsporto&repo=google-login-page&theme=tokyonight"/></a> 
 <a href="https://github.com/mrcsporto/clipboard-landing-page"><img width="300em" src="https://github-readme-stats.vercel.app/api/pin/?username=mrcsporto&repo=clipboard-landing-page&theme=tokyonight"/></a>
 <a href="https://github.com/mrcsporto/tic-tac-toe"><img width="300em" src="https://github-readme-stats.vercel.app/api/pin/?username=mrcsporto&repo=tic-tac-toe&theme=tokyonight"/></a>
-<a href="https://github.com/mrcsporto/pokedex"><img width="300em" src="https://github-readme-stats.vercel.app/api/pin/?username=mrcsporto&repo=pokedex&theme=tokyonight"/></a> 
 <a href="https://github.com/mrcsporto/etiquetas-fortaleza"><img width="300em" src="https://github-readme-stats.vercel.app/api/pin/?username=mrcsporto&repo=etiquetas-fortaleza&theme=tokyonight"/></a> 
 <a href="https://github.com/mrcsporto/card-grid-template"><img width="300em" src="https://github-readme-stats.vercel.app/api/pin/?username=mrcsporto&repo=card-grid-template&theme=tokyonight"/></a>  
  </div>
