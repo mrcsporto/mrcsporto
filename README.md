@@ -34,9 +34,9 @@
 
 #### 📈 Stats:
 
-<div align="left">
-<img width="500em" src="https://github-readme-stats.vercel.app/api?username=mrcsporto&show_icons=true&layout=compact=true&theme=tokyonight"/>
-<img width="241em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrcsporto&theme=tokyonight"/>
+<div align="left"> 
+<img width="205em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrcsporto&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mrcsporto&show_icons=true&theme=tokyonight&locale=en" alt="mrcsporto" />
 </div>
 
 
