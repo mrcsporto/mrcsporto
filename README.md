@@ -9,7 +9,7 @@
 [![Spotify Badge](https://img.shields.io/badge/-Spotify-3bb34b?style=for-the-badge&logo=Spotify&logoColor=161f16&link=https://open.spotify.com/user/mrcsporto)](https://open.spotify.com/user/mrcsporto)
 <hr>
 
-#### 🧰 Main Knowledge:
+#### 🧰 Main Tools:
 
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
