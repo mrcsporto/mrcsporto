@@ -1,5 +1,10 @@
 # Hi, I'm Marcos Porto 👋
 
+##### I'm a Ruby on Rails and JavaScript developer with a background in Supply Chain. Graduated in Production Engineering, with a specialization in Operation Management. 
+
+##### I switched to the technology area, seeking to combine my knowledge in project and process management to solve real problems, always aiming to improve and optimize operations. Finally, I am a challenge-driven person who values continuous learning, with a strong sense of organization and a creative approach to problem-solving.
+<br>
+
 #### ✉️ Find me on: 
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red&link=mailto:mrcsporto@gmail.com)](mailto:mrcsporto@gmail.com)
