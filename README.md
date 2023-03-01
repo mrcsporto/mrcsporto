@@ -1,11 +1,20 @@
-# Hi, I'm Marcos Porto 👋
+# Hi there, I'm Marcos Porto 👋
 
 #### I'm a Frontend JavaScript developer with a background in Administration. Graduated in Production Engineering, with a specialization in Operation Management. 
 
-##### I switched to the technology area, seeking to combine my knowledge in project and process management to solve real problems, always aiming to improve and optimize operations. Finally, I am a challenge-driven person who values continuous learning, with a strong sense of organization and a creative approach to problem-solving.
+⭐️ Passionate about Ruby on Rails:
+I have a deep passion for Ruby on Rails and enjoy working on projects that allow me to leverage this technology. I love how Rails allows for rapid application development and its elegant syntax that allows me to write clean, readable code.
 <br>
 
-#### ✉️ Find me on: 
+<ul>
+<li>🔭 I’m currently working on a Nuxt.js project</li>
+<li>🌱 I’m currently learning Vue.</li>
+<li>💬 Ask me about JavaScript, Ruby on Rails, or project management.</li>
+</ul>
+
+<hr>
+
+### ✉️ Find me on: 
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red&link=mailto:mrcsporto@gmail.com)](mailto:mrcsporto@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcosportorafael/)](https://www.linkedin.com/in/marcosportorafael/)
@@ -14,7 +23,7 @@
 [![Spotify Badge](https://img.shields.io/badge/-Spotify-3bb34b?style=for-the-badge&logo=Spotify&logoColor=161f16&link=https://open.spotify.com/user/mrcsporto)](https://open.spotify.com/user/mrcsporto)
 <hr>
 
-#### 🧰 Main Tools:
+### 🧰 Technologies and Tools:
 
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
@@ -36,7 +45,7 @@
 
 <hr>
 
-#### 📈 Stats:
+### 📈 Stats:
 
 <div align="left"> 
 <img width="205em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrcsporto&theme=tokyonight"/>
