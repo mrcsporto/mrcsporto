@@ -1,6 +1,6 @@
 # Hi there, I'm Marcos Porto 👋
 
-#### I'm a Frontend JavaScript developer with a background in Administration. Graduated in Production Engineering, with a specialization in Operation Management. 
+#### I'm a Full-Stack developer with a background in Business and Administration. Graduated in Production Engineering, with a specialization in Operation Management. 
 
 ⭐️ Passionate about Ruby on Rails:
 I have a deep passion for Ruby on Rails and enjoy working on projects that allow me to leverage this technology. I love how Rails allows for rapid application development and its elegant syntax that allows me to write clean, readable code.
@@ -9,6 +9,7 @@ I have a deep passion for Ruby on Rails and enjoy working on projects that allow
 <ul>
 <li>🔭 I’m currently working on a Nuxt.js project</li>
 <li>🌱 I’m currently learning Vue.</li>
+<li>🧳 I work on a company that delivers Ruby on Rails systems for government.</li>
 <li>💬 Ask me about JavaScript, Ruby on Rails, or project management.</li>
 </ul>
 
